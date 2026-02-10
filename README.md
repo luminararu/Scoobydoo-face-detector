@@ -171,7 +171,7 @@ Problema inițială de overfitting (acuratețe mare pe training, scăzută pe va
 
 ## 👨‍💻 Autor
 
-Luminararu Ionut - 342
+Luminararu Ionut
 
 ## 📄 Licență
 
