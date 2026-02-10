@@ -131,11 +131,16 @@ python task1.py --input <imagine> --output <rezultat>
 ```
 
 ### Task 2 - Clasificare Multi-clasă
+
+- ✅ **Acuratețe validare**: 98%
+- ✅ **Average Precision**: 96%
 ```bash
 python task2.py --input <imagine> --output <rezultat>
 ```
 
 ### Bonus - YOLO
+- ✅ **Acuratețe validare**: 96%
+- ✅ **Average Precision**: 95%
 ```bash
 python bonus.py --input <imagine> --output <rezultat>
 ```
