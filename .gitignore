@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Machine Learning
+*.h5
+*.pkl
+*.pth
+*.ckpt
+*.pb
+*.onnx
+models/
+checkpoints/
+
+# Datasets
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+*.tiff
+data/
+dataset/
+datasets/
+
+# Logs
+*.log
+logs/

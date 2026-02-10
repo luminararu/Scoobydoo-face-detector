@@ -1,0 +1,9 @@
+names:
+- daphne
+- fred
+- shaggy
+- velma
+nc: 4
+path: C:\Users\ionut\Downloads\CAVA-2025-TEMA2_CNN\solutie_bonus_task1\data_yolo
+train: images/train
+val: images/val
